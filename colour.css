@@ -1,0 +1,43 @@
+/* CSS Document */
+/* Created By CaptainMcMarcus */
+/* For the garrys mod community */
+
+/* This stylesheet allows you to easily find the code that needs editing to change the colour of your header bar */
+/* I use CSS 3 Backgrounds to create the gradient so if you are manually changing them then you probably know exactly what you're doing */
+
+#avatar-box {width: 465px; height: 200px; border-bottom: 1px solid #f97676;
+
+background: #ec5a5a;
+background: -moz-linear-gradient(top,  #ec5a5a 0%, #e74a4a 100%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ec5a5a), color-stop(100%,#e74a4a));
+background: -webkit-linear-gradient(top,  #ec5a5a 0%,#e74a4a 100%);
+background: -o-linear-gradient(top,  #ec5a5a 0%,#e74a4a 100%);
+background: -ms-linear-gradient(top,  #ec5a5a 0%,#e74a4a 100%);
+background: linear-gradient(to bottom,  #ec5a5a 0%,#e74a4a 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ec5a5a', endColorstr='#e74a4a',GradientType=0 );}
+
+#rules li:nth-child(1) {border-top: none; 
+
+border-bottom: 1px solid #f97676;
+
+background: #ec5a5a;
+background: -moz-linear-gradient(top,  #ec5a5a 0%, #e74a4a 100%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ec5a5a), color-stop(100%,#e74a4a));
+background: -webkit-linear-gradient(top,  #ec5a5a 0%,#e74a4a 100%);
+background: -o-linear-gradient(top,  #ec5a5a 0%,#e74a4a 100%);
+background: -ms-linear-gradient(top,  #ec5a5a 0%,#e74a4a 100%);
+background: linear-gradient(to bottom,  #ec5a5a 0%,#e74a4a 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ec5a5a', endColorstr='#e74a4a',GradientType=0 );}
+
+#right-items h2 {text-align: center; font-family: 'Open Sans', Arial, Helvetica, sans-serif; font-weight: 300; text-align: center; color: #FFF;
+font-size: 46px; text-shadow: 1px 0px 5px rgba(0, 0, 0, 0.15); line-height: 100px; height: 100px; overflow: hidden;
+
+border-bottom: 1px solid #f97676;
+background: #ec5a5a;
+background: -moz-linear-gradient(top,  #ec5a5a 0%, #e74a4a 100%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ec5a5a), color-stop(100%,#e74a4a));
+background: -webkit-linear-gradient(top,  #ec5a5a 0%,#e74a4a 100%);
+background: -o-linear-gradient(top,  #ec5a5a 0%,#e74a4a 100%);
+background: -ms-linear-gradient(top,  #ec5a5a 0%,#e74a4a 100%);
+background: linear-gradient(to bottom,  #ec5a5a 0%,#e74a4a 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ec5a5a', endColorstr='#e74a4a',GradientType=0 );}
